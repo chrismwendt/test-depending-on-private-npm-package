@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@chrismwendt/test-private-npm-package": "1.0.0"
+  }
+}
